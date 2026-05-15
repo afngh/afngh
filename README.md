@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**afngh/afngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Afnan 👋  
+### Developer • Problem Solver • AI Enthusiast
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+ML+Explorer;LangChain+%26+n8n+Builder;250%2B+LeetCode+Problems+Solved;Backend+%26+API+Developer" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+💻 Developer focused on building scalable and practical solutions  
+🧠 Solved **250+ LeetCode problems**  
+🐍 Built multiple **Python projects**  
+🤖 Worked on **Machine Learning & AI projects**  
+🔗 Built workflows and automations using **LangChain & n8n**  
+🌐 Experienced with **APIs & RESTful API integration**  
+📚 Continuously learning modern technologies and system design  
+
+---
+
+## 🏆 Achievements
+
+✅ Cracked **Thoughtworks STEP** during diploma  
+✅ Cracked **Wipro** during diploma  
+🎯 Strong problem-solving and development background  
+
+---
+
+## 🔥 Current Focus
+
+- AI & LLM Applications  
+- Backend Development  
+- Automation Workflows  
+- API Development & Integrations  
+- DSA & System Design  
+
+---
+
+## ⚡ Fun Fact
+
+> I once failed my C practical lab in first year — now I genuinely enjoy solving programming problems and building projects from scratch.
+
+---
+
+<div align="center">
+
+### 💡 “Build. Learn. Improve. Repeat.”
+
+</div>
