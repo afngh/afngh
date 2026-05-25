@@ -49,7 +49,7 @@
 <div align="center">
 
 ### 💡 “Build. Learn. Improve. Repeat.”
+![Views](https://komarev.com/ghpvc/?username=afngh)
 
 </div>
 
-![Views](https://komarev.com/ghpvc/?username=afngh)
