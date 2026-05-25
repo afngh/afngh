@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hey there, I'm Afnan 👋  
+# Hey there, I'm Afnan 👋  ![Views](https://komarev.com/ghpvc/?username=afngh)
+
 ### Developer • Problem Solver • AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+ML+Explorer;LangChain+%26+n8n+Builder;250%2B+LeetCode+Problems+Solved;Backend+%26+API+Developer" />
