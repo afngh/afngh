@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Afnan 👋  ![Views](https://komarev.com/ghpvc/?username=afngh)
+# Hey there, I'm Afnan 👋  
 
 ### Developer • Problem Solver • AI Enthusiast
 
@@ -51,3 +51,5 @@
 ### 💡 “Build. Learn. Improve. Repeat.”
 
 </div>
+
+![Views](https://komarev.com/ghpvc/?username=afngh)
