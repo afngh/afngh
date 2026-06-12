@@ -4,7 +4,7 @@
 
 ### Developer • Problem Solver • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+ML+Explorer;LangChain+%26+n8n+Builder;250%2B+LeetCode+Problems+Solved;Backend+%26+API+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+ML+Explorer;LangChain+%26+n8n+Builder;250%2[...]
 
 </div>
 
@@ -48,8 +48,7 @@
 
 <div align="center">
 
-### 💡 “Build. Learn. Improve. Repeat.”
-![Views](https://komarev.com/ghpvc/?username=afngh)
+### 💡 "Build. Learn. Improve. Repeat."
+![Views](https://komarev.com/ghpvc/?username=afngh&ref=afngh)
 
 </div>
-
